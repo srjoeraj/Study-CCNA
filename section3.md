@@ -31,5 +31,5 @@
 - *Main protocol stack used in operations today.*
 - OSI --> refrence model ; TCP/IP --> used to transfer data in production networks
 
-![Comparing the OSI MOdel with TCP/IP STack](pictures/s3-1.jpeng)
+![Comparing the OSI MOdel with TCP/IP STack](pictures/s3-1.jpeg)
 
